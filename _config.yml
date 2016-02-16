@@ -1,0 +1,29 @@
+name: coodart
+favicon: null
+layout_spectrum: 0.7182265967130661
+typography_spectrum: 0.1535618775524199
+title: coodart grid
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.004688959335908294
+  lightness: 0.641753364354372
+  saturation: 0.49607479595579207
+  rhythmicContrast: 0.742380820447579
+purpose: []
